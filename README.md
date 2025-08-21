@@ -23,7 +23,7 @@ The goal of this project was to better understand and predict the zoonotic poten
   - Fine-tuned models outperformed base models, improving predictive accuracy.  
 
 - **Future Work**  
-  - Extend to longer-context models such as **Evo-2**.  
+  - Extend to longer-context models such as Evo-2.
   - Incorporate multiple influenza genome segments beyond PB2.  
   - Train directly on nucleotide sequences to analyze mutations on a more granular level.  
 
@@ -33,4 +33,4 @@ Influenza A continues to pose a pandemic threat due to its ability to cross spec
 
 ## Acknowledgements  
 
-This research was made possible by the SURI Internship Program** at the Scripps Translational Institute, with mentorship from Praneeth Gangavarapu and the Andersen Lab.
+This research was made possible by the SURI Internship Program at the Scripps Translational Institute, with mentorship from Praneeth Gangavarapu and the Andersen Lab.
