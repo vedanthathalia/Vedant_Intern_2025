@@ -36,7 +36,7 @@ The goal of this project was to better understand and predict the zoonotic poten
 - future_work - exploratory scripts for next steps, including Evo model training.  
 - mutations - scripts to extract mutations and compare them with known human-adaptive mutations.  
 - nextstrain - files related to extracting and annotating mutations for Nextstrain visualizations.  
-- plotting - plotting utilities for visualizing log-likelihoods, ROC curves, embeddings, and tree results.  
+- plotting - plotting scripts for visualizing log-likelihoods, ROC curves, embeddings, and tree results.  
 
 ## Significance  
 
