@@ -2,7 +2,7 @@
 
 # Predicting Human Infectivity of Influenza A Sequences  
 
-This repository contains my work from my **Summer 2025 internship at The Scripps Research Institute** (SURI Program), where I worked in the Andersen Lab on an influenza-focused computational biology project.  
+This repository contains my work from my Summer 2025 internship at The Scripps Research Institute (SURI Program), where I worked in the Andersen Lab on an influenza-focused computational biology project.  
 
 ## Project Overview  
 
