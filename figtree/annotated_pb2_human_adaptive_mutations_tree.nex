@@ -1,0 +1,26 @@
+#NEXUS
+
+Begin taxa;
+    Dimensions ntax=15;
+    Taxlabels
+        AXO65615.1
+        AEK66003.1
+        XSB34880.1
+        ACZ45432.1
+        WFF60131.1
+        ADW01403.1
+        ACF25597.1
+        AJJ90898.1
+        AHG26745.1
+        AJJ98609.1
+        QPD97292.1
+        ATP16917.1
+        ACF25038.1
+        AEK84629.1
+        QBE61523.1
+    ;
+End;
+
+Begin trees;
+    Tree tree1 = [&R] ((((((((ACF25597.1[&mutation="K526R"]:0.00807,ACF25038.1[&mutation="K482R | M535L"]:0.01370):0.04681,(AJJ98609.1[&mutation="K627E | S715N"]:0.00137,ADW01403.1[&mutation="K627E | S715N"]:0.00000):0.00402):0.00002,AEK84629.1[&mutation="G590S"]:0.00817):0.00002,(AEK66003.1[&mutation="I292V"]:0.00572,ATP16917.1[&mutation="I292V"]:0.00000):0.00270):0.00001,ACZ45432.1[&mutation="K699R"]:0.03120):0.00416,AHG26745.1[&mutation="I147T"]:0.01086):0.00000,AXO65615.1[&mutation="A676T"]:0.02549):0.00000,(((QPD97292.1[&mutation="I292V"]:0.00000,QBE61523.1[&mutation="I292V"]:0.00137):0.00266,AJJ90898.1[&mutation="I292V"]:0.00401):0.00806,(XSB34880.1[&mutation="I147T | T271A | K482R | A588T | G590S | Q591R | K627E | S715N"]:0.00271,WFF60131.1[&mutation="I147T | T271A | K482R | A588T | G590S | Q591R | K627E | S715N"]:0.00135):0.03227):0.00000):0.00934;
+End;
