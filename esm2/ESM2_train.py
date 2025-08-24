@@ -96,7 +96,7 @@ def main():
         "logging_dir": logging_dir,
 
         "report_to": "wandb",
-        "WANDB_API_KEY": "4ccf6e6d655e18a2f2f1a5dee3114419a24080e0",
+        "WANDB_API_KEY": "API_KEY_HERE",
         "WANDB_PROJECT": "ESM2",
         "WANDB_RUN_GROUP": "esm_experiments",
         "WANDB_JOB_TYPE": "finetune",
